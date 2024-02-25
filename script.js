@@ -1,5 +1,4 @@
 let locationElement = document.querySelector(".card-header a");
-console.log(locationElement);
 
 colors = ["red", "blue", "green", "yellow", "purple", "orange", "pink", "brown"];
 
